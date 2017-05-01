@@ -1,0 +1,7 @@
+.custom_idea .item-likes {
+  color: grey;
+}
+
+.new_idea .activity-meta .acomment-reply {
+  display: none !important;
+}
